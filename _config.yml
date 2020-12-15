@@ -15,10 +15,8 @@ author: Giancarlo Kerg
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Papers: "https://scholar.google.ca/citations?user=GcJkks8AAAAJ&hl=en"
+  
 
 # --- Logo --- #
 
